@@ -1,0 +1,15 @@
+# Local configuration and generated database
+.env
+*.sqlite3
+*.sqlite3-shm
+*.sqlite3-wal
+
+# Python cache and local virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Editor/OS files
+.DS_Store
+Thumbs.db
